@@ -15,7 +15,7 @@
     <div id="nav">
         <ul>
             <li><a href=home.jsp>HOME</a></li>
-            <li><a href=prestation.jsp>Mes Prestations</a></li>
+            <li><a href=prestations.jsp>Mes Prestations</a></li>
             <li><a href=devis.jsp>Devis</a></li>
             <li><a href=contact.jsp>Contact me</a></li>
         </ul>
